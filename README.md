@@ -1,8 +1,8 @@
 ## Boas vindas ao meu perfil 💙💙
 
-Meu nome é nome sobrenome
+Meu nome é João Pedro
 
-- Estou estudando na Alura
+- Estou estudando na Galliera
   
 - Estou me desenvolvendo na linguagem JavaScript
   
